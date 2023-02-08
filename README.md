@@ -2,6 +2,8 @@
 Decomposition of a matrix into a product of elementary matrices ヾ(≧▽≦*)o
 
 
+
+
 Where matrix M you can get by doing a single row operation like alpha * ri -> ri to an identity matrix. <br>
 Example: <br>
 I = [[1, 0], [0, 1]]  <br>
